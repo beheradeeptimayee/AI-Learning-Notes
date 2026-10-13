@@ -1,10 +1,10 @@
 -Used when the output is a category /class
-***for example:
+### for example:
 Email->Spam/not Spam
 Loan->Approved/Rejected
 Disease detection->Disease/No disease
 
-***Classification can be :
+### Classification can be :
 - Binary Classification
 - Multi-class Classification
 
@@ -14,7 +14,7 @@ Ex: Spam/Not Spam
 (ii)Multi-class Classification: More than 2 classes
 Ex: Email->Spam/Promotion/Social/Primary
 
-***Some Classification Algorithms
+### Some Classification Algorithms
 ----------------------------------
 | Algorithm | Main Idea |
 |---|---|

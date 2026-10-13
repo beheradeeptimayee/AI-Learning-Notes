@@ -2,10 +2,10 @@
 Ex: House details-->House price=50 Lakh
  Years of experience-->Salary=50k
 
-***Flow:
+### Flow:
 Input/Features(x)--->RegressionModel-->NumericalOutput(y)
 
-***Some Regression Algorithms
+### Some Regression Algorithms
 -------------------------------
 | Algorithm | Main Idea |
 |---|---|
@@ -21,7 +21,7 @@ Input/Features(x)--->RegressionModel-->NumericalOutput(y)
 
 
 
-**Difference between Classification & Regression.
+## Difference between Classification & Regression.
 
 | Classification | Regression |
 |---|---|
